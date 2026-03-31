@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Betting Arbitrage Calculator</string>
+    <string name="screen_title">Betting Arbitrage Calculator</string>
+    <string name="screen_subtitle">Offline, instant, and balanced for both outcomes. Enter back odds, lay odds, and exactly one stake.</string>
+    <string name="inputs_section">Inputs</string>
+    <string name="results_section">Results</string>
+    <string name="overlay_section">Floating Window</string>
+    <string name="back_odds">Back Odds (B)</string>
+    <string name="lay_odds">Lay Odds (L)</string>
+    <string name="back_stake">Back Stake (S)</string>
+    <string name="lay_stake">Lay Stake (LS)</string>
+    <string name="back_stake_short">Back Stake</string>
+    <string name="lay_stake_short">Lay Stake</string>
+    <string name="input_hint">Use exactly one stake field. The app calculates the missing stake and a single equal profit figure: P = LS - S.</string>
+    <string name="default_status">Enter values to calculate in real time.</string>
+    <string name="balanced_profit_message">Profit is equal whether selection A wins or loses.</string>
+    <string name="back_stake_result">Calculated Back Stake</string>
+    <string name="lay_stake_result">Calculated Lay Stake</string>
+    <string name="profit_result">Profit / Loss</string>
+    <string name="results_note">Profit if A wins equals profit if A loses. Green means profit, red means loss.</string>
+    <string name="placeholder_value">--</string>
+    <string name="overlay_permission_message">Grant overlay permission once to use the floating calculator above other apps.</string>
+    <string name="overlay_ready_message">Overlay permission is granted. You can launch the floating calculator now.</string>
+    <string name="overlay_running_message">The floating calculator is currently running.</string>
+    <string name="grant_overlay_permission">Grant Overlay Permission</string>
+    <string name="open_overlay">Open Floating Calculator</string>
+    <string name="close_overlay">Close Floating Calculator</string>
+    <string name="overlay_title">Arbitrage Popup</string>
+    <string name="drag_label">Drag</string>
+    <string name="overlay_ready_status">Balanced profit preview</string>
+    <string name="notification_channel_name">Floating calculator</string>
+    <string name="notification_title">Floating calculator is active</string>
+    <string name="notification_text">Tap to return to the arbitrage calculator.</string>
+</resources>

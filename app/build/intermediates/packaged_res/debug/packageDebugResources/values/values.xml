@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="cardStroke">#DCE2E8</color>
+    <color name="cardSurface">#FFFFFF</color>
+    <color name="lossRed">#C4382C</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="overlayStroke">#D7DEE6</color>
+    <color name="primary">#1B5E7A</color>
+    <color name="profitGreen">#108A45</color>
+    <color name="resultSurface">#F6F8FA</color>
+    <color name="statusError">#FCEBE9</color>
+    <color name="statusNeutral">#EEF3F7</color>
+    <color name="surfaceBackground">#F3F5F7</color>
+    <color name="textPrimary">#111827</color>
+    <color name="textSecondary">#5B6472</color>
+    <string name="app_name">Betting Arbitrage Calculator</string>
+    <string name="back_odds">Back Odds (B)</string>
+    <string name="back_stake">Back Stake (S)</string>
+    <string name="back_stake_result">Calculated Back Stake</string>
+    <string name="back_stake_short">Back Stake</string>
+    <string name="balanced_profit_message">Profit is equal whether selection A wins or loses.</string>
+    <string name="close_overlay">Close Floating Calculator</string>
+    <string name="default_status">Enter values to calculate in real time.</string>
+    <string name="drag_label">Drag</string>
+    <string name="grant_overlay_permission">Grant Overlay Permission</string>
+    <string name="input_hint">Use exactly one stake field. The app calculates the missing stake and a single equal profit figure: P = LS - S.</string>
+    <string name="inputs_section">Inputs</string>
+    <string name="lay_odds">Lay Odds (L)</string>
+    <string name="lay_stake">Lay Stake (LS)</string>
+    <string name="lay_stake_result">Calculated Lay Stake</string>
+    <string name="lay_stake_short">Lay Stake</string>
+    <string name="notification_channel_name">Floating calculator</string>
+    <string name="notification_text">Tap to return to the arbitrage calculator.</string>
+    <string name="notification_title">Floating calculator is active</string>
+    <string name="open_overlay">Open Floating Calculator</string>
+    <string name="overlay_permission_message">Grant overlay permission once to use the floating calculator above other apps.</string>
+    <string name="overlay_ready_message">Overlay permission is granted. You can launch the floating calculator now.</string>
+    <string name="overlay_ready_status">Balanced profit preview</string>
+    <string name="overlay_running_message">The floating calculator is currently running.</string>
+    <string name="overlay_section">Floating Window</string>
+    <string name="overlay_title">Arbitrage Popup</string>
+    <string name="placeholder_value">--</string>
+    <string name="profit_result">Profit / Loss</string>
+    <string name="results_note">Profit if A wins equals profit if A loses. Green means profit, red means loss.</string>
+    <string name="results_section">Results</string>
+    <string name="screen_subtitle">Offline, instant, and balanced for both outcomes. Enter back odds, lay odds, and exactly one stake.</string>
+    <string name="screen_title">Betting Arbitrage Calculator</string>
+    <style name="Theme.BettingArbitrageCalculator" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorSecondary">@color/primary</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/surfaceBackground</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="android:windowBackground">@drawable/bg_screen</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+    <style name="Widget.BettingArbitrageCalculator.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundColor">@color/resultSurface</item>
+        <item name="boxCornerRadiusBottomEnd">18dp</item>
+        <item name="boxCornerRadiusBottomStart">18dp</item>
+        <item name="boxCornerRadiusTopEnd">18dp</item>
+        <item name="boxCornerRadiusTopStart">18dp</item>
+        <item name="boxStrokeColor">@color/cardStroke</item>
+        <item name="hintTextColor">@color/textSecondary</item>
+    </style>
+</resources>

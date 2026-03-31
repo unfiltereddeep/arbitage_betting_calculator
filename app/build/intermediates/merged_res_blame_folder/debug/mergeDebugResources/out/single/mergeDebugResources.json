@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-debug-31:\\drawable_bg_screen.xml.flat",
+        "source": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-main-33:\\drawable\\bg_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-debug-31:\\drawable_bg_overlay_input.xml.flat",
+        "source": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-main-33:\\drawable\\bg_overlay_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-debug-31:\\drawable_ic_app_icon.xml.flat",
+        "source": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-main-33:\\drawable\\ic_app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-debug-31:\\layout_view_overlay.xml.flat",
+        "source": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-main-33:\\layout\\view_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-debug-31:\\drawable_bg_status_neutral.xml.flat",
+        "source": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-main-33:\\drawable\\bg_status_neutral.xml"
+    },
+    {
+        "merged": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-debug-31:\\drawable_bg_overlay_panel.xml.flat",
+        "source": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-main-33:\\drawable\\bg_overlay_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-debug-31:\\drawable_bg_status_error.xml.flat",
+        "source": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-main-33:\\drawable\\bg_status_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-debug-31:\\drawable_bg_result_surface.xml.flat",
+        "source": "C:\\Users\\akash\\.gradle\\daemon\\9.0.0\\com.example.bettingarbitragecalculator.app-main-33:\\drawable\\bg_result_surface.xml"
+    },
+    {
+        "merged": "com.example.bettingarbitragecalculator.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.bettingarbitragecalculator.app-main-33:/layout/activity_main.xml"
+    }
+]
